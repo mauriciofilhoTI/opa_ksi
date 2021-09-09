@@ -137,6 +137,3 @@ public class OpaDemo2 {
         public BigDecimal amount;
     }
 }
-```
-
-More samples can be found in OPA tests (https://github.com/labai/opa/tree/master/src/test/java/com/github/labai/opa)
